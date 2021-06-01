@@ -10,3 +10,13 @@
 
 ## Сергей Дмитриев**. Наставник**
 
+\*\*\*\*
+
+## **Выводы**
+
+{% hint style="danger" %}
+**Полезные ссылки:**
+
+1.  [digital toolbox](http://digitaltoolbox.info/rhinoceros-basic/) - уроки Rhino
+{% endhint %}
+
