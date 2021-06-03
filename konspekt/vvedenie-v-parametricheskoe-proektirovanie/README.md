@@ -10,7 +10,7 @@ description: Модули курса
 
    1.2 [Примеры применения методов параметрического проектирования](primery-primeneniya-metodov-parametricheskogo-proektirovaniya.md)
 
-   1.3 Основы моделирования в Rhinoceros
+   1.3 [Основы моделирования в Rhinoceros](1.3.-osnovy-modelirovaniya-v-rhinoceros.md)
 
    1.4 Создание модели со сложной геометрией в Rhinoceros
 
