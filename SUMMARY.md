@@ -25,5 +25,7 @@
 
 ## Дневник
 
+* [Знакомство](dnevnik/znakomstvo.md)
+* [Первое впечатление о курсе](dnevnik/pervoe-vpechatlenie-o-kurse.md)
 * [Модуль 1. Основы моделинга в Rhino](dnevnik/modul-1.-osnovy-modelinga-v-rhino.md)
 
